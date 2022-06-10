@@ -20,7 +20,7 @@ Primary sources of references were
 - Clone the repo using the `--recursive` flag to ensure that the submodule is also cloned
 - Assuming docker is installed and running in your system use
   `docker-compose up` from the root directory of the project
-- Visit <a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer">localhost:3000</a><a href="http://localhost:4000/" target="_blank" rel="noopener noreferrer">localhost:4000</a><a href="http://localhost:5000/" target="_blank" rel="noopener noreferrer">localhost:5000</a> on your browser.
+- Visit <a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer">localhost:3000</a>, <a href="http://localhost:4000/" target="_blank" rel="noopener noreferrer">localhost:4000</a> and <a href="http://localhost:5000/" target="_blank" rel="noopener noreferrer">localhost:5000</a> on your browser.
 
 ## Learnings
 
